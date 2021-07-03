@@ -6,6 +6,6 @@ I am passionate about writing clean code while turning complex problems into sim
 
 ### What I love doing...
 - Coding & Learning
-- When I am not coding -> Fitness & Trading
+- When I am not coding -> Fitness or Trading
 
 I am always open to chat, just shoot me an email! :speaking_head:
