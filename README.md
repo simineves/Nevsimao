@@ -8,4 +8,4 @@
 
 ### 📫 Find me here: ...
 - [LinkedIn](https://www.linkedin.com/in/simi-neves/)
-- [Personal Website](https://ubiquitous-salmiakki-95465f.netlify.app/)
+- [Personal Website](https://simineves.com/)
