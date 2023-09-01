@@ -6,6 +6,6 @@
 
 - For a more detailed look at my experience and qualifications, please refer to my [Resume](https://docs.google.com/document/d/1kMrJ4-tayOi8C1HNpF0QveotlhK8NNQi5YW1LkKsxXs/edit?usp=sharing).
 
-### 📫 Find me here: ...
+### 📫 Find me here:
 - [LinkedIn](https://www.linkedin.com/in/simi-neves/)
 - [Personal Website](https://simineves.com/)
